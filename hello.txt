@@ -11,6 +11,6 @@ hello git hello pcy1!
 hello git hello pcy1!
 hello git hello pcy1!
 hello git hello pcy1!
-hello git hello pcy1!	master-test
+hello git hello pcy1!	master
 hello git hello pcy1!	hot-fix-test
 hello git hello pcy1!
